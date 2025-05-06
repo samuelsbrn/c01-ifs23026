@@ -1,0 +1,18 @@
+Data telah direset ke data awal saat aplikasi dimulai, dan counter NIM telah di-reset.
+Selamat Datang di Sistem Pendaftaran Universitas
+
+==== Menu Utama ====
+1. Daftar Siswa Baru
+2. Lihat Daftar Siswa
+3. Reset Data
+4. Urutkan dan Bagi Kelas
+0. Keluar
+Pilih: Pilihan tidak valid.
+
+==== Menu Utama ====
+1. Daftar Siswa Baru
+2. Lihat Daftar Siswa
+3. Reset Data
+4. Urutkan dan Bagi Kelas
+0. Keluar
+Pilih: Terima kasih telah menggunakan sistem ini!

@@ -1,0 +1,37 @@
+Data telah direset ke data awal saat aplikasi dimulai, dan counter NIM telah di-reset.
+Selamat Datang di Sistem Pendaftaran Universitas
+
+==== Menu Utama ====
+1. Daftar Siswa Baru
+2. Lihat Daftar Siswa
+3. Reset Data
+4. Urutkan dan Bagi Kelas
+0. Keluar
+Pilih: Masukkan nama: Masukkan umur: Masukkan alamat: Masukkan asal sekolah: Pilih jurusan (1: S1 Informatika, 2: S1 Sistem Informasi, 3: S1 Teknik Elektro): Masukkan tahun masuk universitas: Mahasiswa baru berhasil ditambahkan dengan NIM: EES23001
+
+==== Menu Utama ====
+1. Daftar Siswa Baru
+2. Lihat Daftar Siswa
+3. Reset Data
+4. Urutkan dan Bagi Kelas
+0. Keluar
+Pilih: 
+=== Daftar Siswa Terdaftar ===
+
+--- Mahasiswa yang Ditambahkan ---
+NIM: EES23001
+Nama: James Bond
+Umur: 25
+Alamat: London
+Asal Sekolah: SMA N 7 London
+Jurusan: S1 Teknik Elektro
+Tahun Masuk: 2023
+----------------------------
+
+==== Menu Utama ====
+1. Daftar Siswa Baru
+2. Lihat Daftar Siswa
+3. Reset Data
+4. Urutkan dan Bagi Kelas
+0. Keluar
+Pilih: Terima kasih telah menggunakan sistem ini!

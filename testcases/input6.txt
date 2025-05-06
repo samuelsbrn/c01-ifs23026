@@ -1,0 +1,15 @@
+1
+John Doe
+20
+Bandung
+SMA N 2 Indonesia
+1
+2023
+1
+John Doe
+21
+Jakarta
+SMA N 1 Indonesia
+1
+2023
+0
